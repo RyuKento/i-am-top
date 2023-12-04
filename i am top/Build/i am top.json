@@ -1,0 +1,16 @@
+{
+"companyName": "VantanGameAcademy",
+"productName": "i am top",
+"productVersion": "0.1",
+"dataUrl": "i am top.data.unityweb",
+"wasmCodeUrl": "i am top.wasm.code.unityweb",
+"wasmFrameworkUrl": "i am top.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.36f1"
+}
